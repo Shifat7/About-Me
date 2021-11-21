@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shifat7 (actual name- Shifat Bin Rahman)
-- 👀 I’m mostly interested in mostly Python, web dev and a dash of game dev
+- 👀 I’m mostly interested in mostly Python, ML, web dev and a dash of game dev
 - 🌱 I’m currently learning Data Science BSc in Swinburne University of Technology
 - 💞️ My end goal is to collaborate on game changing products that will help mankind in some way
 - 📫 How to reach me (email - shifatrahman@gmail.com)
